@@ -43,7 +43,11 @@ i {
   }
 }
 
-@media only screen and (max-width: 400px) {
+.setWidth{
+  width: 100%
+}
+
+@media only screen and (max-width: 800px) {
   .setWidth{
     width: 300px
   }

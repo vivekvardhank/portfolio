@@ -58,7 +58,7 @@ export const info = {
         },
         {
             emoji: '📚',
-            text: 'Lifelong learner and tech enthusiast'
+            text: 'Continuous learner and tech enthusiast'
         }
     ],
     socials: [
@@ -124,13 +124,13 @@ export const info = {
 
     ],
     portfolio: [ 
-        {
+        /*{
             title: "Movie fun",
             live: "https://github.com/vivekvardhank?tab=repositories", 
             source: "https://github.com/vivekvardhank?tab=repositories", 
             image: project1,
            description: "Movie Fun is a MERN Application featuring movie exploration by popularity, top-rated, and genre filters. Users can add movies to their favorites, view details using the TMDB API, and manage their profile with JWT-based login and signup. MongoDB is used for the database, and Node.js with Express for the backend."
-        },
+        },*/
         {
             title: "Adopt a pet",
             live: "https://github.com/vivekvardhank/Adopt_a_pet",
