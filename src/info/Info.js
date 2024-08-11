@@ -139,7 +139,7 @@ export const info = {
             source: "https://github.com/vivekvardhank/StockVision",
             image: project6,
             description: "StockVision is a pantry tracker application built using Next.js that helps you keep track of your pantry items and their stock levels. The application allows you to add, update, and remove items from your inventory. You can also use your camera to add items by detecting them using OpenAI's GPT-4 and Google Vision API. Additionally, StockVision provides a feature to get recipes based on the items available in your pantry using OpenAI's GPT-3.5-turbo model."
-        }
+        },
         {
             title: "Adopt a pet",
             live: "https://github.com/vivekvardhank/Adopt_a_pet",
