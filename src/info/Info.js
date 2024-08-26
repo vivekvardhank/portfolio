@@ -4,6 +4,9 @@ import project2 from "../img/project2.png"
 import project3 from "../img/project3.png"
 import project4 from "../img/project4.png"
 import project5 from "../img/project5.png"
+import project6 from "../img/project6.png"
+import project7 from "../img/project7.png"
+
 
 import { FaReact, FaVuejs, FaAngular, FaNodeJs, FaJsSquare, FaPython, FaJava , FaNext} from 'react-icons/fa';
 import { SiTypescript, SiExpress, SiPostgresql, SiMongodb, SiNextdotjs } from 'react-icons/si';
@@ -133,6 +136,20 @@ export const info = {
             image: project1,
            description: "Movie Fun is a MERN Application featuring movie exploration by popularity, top-rated, and genre filters. Users can add movies to their favorites, view details using the TMDB API, and manage their profile with JWT-based login and signup. MongoDB is used for the database, and Node.js with Express for the backend."
         },*/
+        {
+            title: 'ChatBot - AI Chat Assistant',
+            live: "https://ai-chat-support-rho.vercel.app/",
+            source: "https://github.com/vivekvardhank/ai-chat-support",
+            image: project7,
+            description: "This project is an AI-powered ChatBot application built with Next.js and integrated with OpenAI's API. It includes user authentication (login and registration), chat history tracking, and a responsive UI designed using Material-UI (MUI). The backend is supported by MongoDB for storing user data and chat history. The application offers real-time chat functionality with the AI assistant, providing a seamless experience across devices"
+        },
+        {
+            title: 'Stock Vision',
+            live: "https://stock-vision.vercel.app/",
+            source: "https://github.com/vivekvardhank/StockVision",
+            image: project6,
+            description: "StockVision is a pantry tracker application built using Next.js that helps you keep track of your pantry items and their stock levels. The application allows you to add, update, and remove items from your inventory. You can also use your camera to add items by detecting them using OpenAI's GPT-4 and Google Vision API. Additionally, StockVision provides a feature to get recipes based on the items available in your pantry using OpenAI's GPT-3.5-turbo model."
+        },
         {
             title: "Adopt a pet",
             live: "https://github.com/vivekvardhank/Adopt_a_pet",
