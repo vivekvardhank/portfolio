@@ -8,7 +8,7 @@ import project6 from "../img/project6.png"
 import project7 from "../img/project7.png"
 
 
-import { FaReact, FaVuejs, FaAngular, FaNodeJs, FaJsSquare, FaPython, FaJava , FaNext} from 'react-icons/fa';
+import { FaReact, FaVuejs, FaAngular, FaNodeJs, FaJsSquare, FaPython, FaJava } from 'react-icons/fa';
 import { SiTypescript, SiExpress, SiPostgresql, SiMongodb, SiNextdotjs } from 'react-icons/si';
 
 
