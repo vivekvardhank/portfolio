@@ -5,8 +5,8 @@ import project3 from "../img/project3.png"
 import project4 from "../img/project4.png"
 import project5 from "../img/project5.png"
 
-import { FaReact, FaVuejs, FaAngular, FaNodeJs, FaJsSquare, FaPython, FaJava } from 'react-icons/fa';
-import { SiTypescript, SiExpress, SiPostgresql, SiMongodb } from 'react-icons/si';
+import { FaReact, FaVuejs, FaAngular, FaNodeJs, FaJsSquare, FaPython, FaJava , FaNext} from 'react-icons/fa';
+import { SiTypescript, SiExpress, SiPostgresql, SiMongodb, SiNextdotjs } from 'react-icons/si';
 
 
 const toolIcons = {
@@ -21,6 +21,7 @@ const toolIcons = {
     Express: <SiExpress />,
     PostgreSQL: <SiPostgresql />,
     MongoDB: <SiMongodb />,
+    NextJS: <SiNextdotjs/>
   };
 
 
@@ -94,6 +95,7 @@ export const info = {
             { name: 'Python', icon: toolIcons['Python'] },
             { name: 'Java', icon: toolIcons['Java'] },
             { name: 'React', icon: toolIcons['React'] },
+            { name: 'Next.js', icon: toolIcons['NextJS']},
             { name: 'Vue', icon: toolIcons['Vue'] },
             { name: 'Angular', icon: toolIcons['Angular'] },
             { name: 'TypeScript', icon: toolIcons['TypeScript'] },
