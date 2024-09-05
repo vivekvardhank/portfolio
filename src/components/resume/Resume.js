@@ -4,7 +4,7 @@ import { Viewer, Worker } from '@react-pdf-viewer/core';
 import '@react-pdf-viewer/core/lib/styles/index.css';
 import '@react-pdf-viewer/default-layout/lib/styles/index.css';
 import styles from './Resume.module.scss'; 
-import resume from "../../img/resume.pdf"
+import resume from "../../img/resume_n.pdf"
 
 export default function Resume({ innerRef }) {
     return (
