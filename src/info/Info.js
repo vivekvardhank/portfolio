@@ -6,6 +6,7 @@ import project4 from "../img/project4.png"
 import project5 from "../img/project5.png"
 import project6 from "../img/project6.png"
 import project7 from "../img/project7.png"
+import project8 from "../img/project8.png"
 
 
 import { FaReact, FaVuejs, FaAngular, FaNodeJs, FaJsSquare, FaPython, FaJava } from 'react-icons/fa';
@@ -136,6 +137,13 @@ export const info = {
             image: project1,
            description: "Movie Fun is a MERN Application featuring movie exploration by popularity, top-rated, and genre filters. Users can add movies to their favorites, view details using the TMDB API, and manage their profile with JWT-based login and signup. MongoDB is used for the database, and Node.js with Express for the backend."
         },*/
+        {
+            title: 'AI-Powered Professor Recommendation System',
+            live: "https://github.com/vivekvardhank/Rate-My-Professors",
+            source: "https://github.com/vivekvardhank/Rate-My-Professors",
+            image: project8,
+            description: "This project involved building a sophisticated 'Rate My Professor' application using Next.js, Pinecone, AI models, Retrieval-Augmented Generation (RAG), Python, and Node.js. The application provides personalized professor recommendations by leveraging a comprehensive search and recommendation system that processes user-submitted data, such as links, ratings, and reviews"
+        },
         {
             title: 'ChatBot - AI Chat Assistant',
             live: "https://ai-chat-support-rho.vercel.app/",
